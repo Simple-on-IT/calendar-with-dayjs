@@ -23,4 +23,4 @@
 
 ## Дополнительные материалы:
 Документация - https://day.js.org/  
-Видео - 
+Видео - https://youtube.com/shorts/T1HCYKOTgPM?feature=share
