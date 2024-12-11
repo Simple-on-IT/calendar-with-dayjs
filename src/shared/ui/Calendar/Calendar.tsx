@@ -35,9 +35,9 @@ const Calendar: React.FC = () => {
             {day}
           </div>
         ))}
-        {dayInfo.days.map((day) => (
+        {dayInfo.days.map((day, index) => (
           <div
-            key={day}
+            key={index}
             className={`${styles.cell} ${day === null ? styles.empty : ""}`}
           >
             {day || ""}
